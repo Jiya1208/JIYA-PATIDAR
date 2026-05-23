@@ -30,8 +30,12 @@ Personal portfolio using React
 
 # 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME)
+## 📊 GitHub Stats
+
+![Jiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyapatidar&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyapatidar&layout=compact&theme=tokyonight)
 
 
