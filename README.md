@@ -13,13 +13,10 @@
 
 ---
 
-# 💻 Tech Stack
 ## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,c++,java,docker,aws,git,github, VS Code, Postman,Linux Basics">
-
-
+  <img src="https://skillicons.dev/icons?i=java,docker,aws,linux,git,github,vscode,html,vs coode, postman" />
 </p>
 
 
